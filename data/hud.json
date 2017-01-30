@@ -1,0 +1,50 @@
+{
+    "Hud_Lives3": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 53,
+        "tileh": 45,
+        "frames": 6
+    },
+    "Hud_Lives2": {
+        "sx": 53,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 53,
+        "tileh": 45,
+        "frames": 6
+    },
+    "Hud_Lives1": {
+        "sx": 106,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 53,
+        "tileh": 45,
+        "frames": 6
+    },
+    "Hud_NoKey": {
+        "sx": 159,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 44,
+        "tileh": 40,
+        "frames": 6
+    },
+    "Hud_WithKey": {
+        "sx": 203,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 44,
+        "tileh": 40,
+        "frames": 6
+    },
+    "Hud_Coins": {
+        "sx": 247,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 47,
+        "tileh": 47,
+        "frames": 6
+    }
+}

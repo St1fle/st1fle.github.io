@@ -1,0 +1,10 @@
+{
+    "Snail": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 3,
+        "tilew": 57,
+        "tileh": 31,
+        "frames": 3
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "BCoin": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "SCoin": {
+        "sx": 70,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "GCoin": {
+        "sx": 140,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "YKey": {
+        "sx": 210,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "YSafe": {
+        "sx": 280,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7        
+    },
+    "LadderMid": {
+        "sx": 350,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "LadderTop": {
+        "sx": 420,
+        "sy": 0,
+        "cols": 7,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 7
+    },
+    "SpeedBoost": {
+        "sx": 490,
+        "sy": 0,
+        "cols": 8,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 8
+    },
+    "Extra_Life": {
+        "sx": 560,
+        "sy": 0,
+        "cols": 8,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 8
+    },
+    "Immortality": {
+        "sx": 630,
+        "sy": 0,
+        "tilew": 70,
+        "tileh": 70
+    },
+    "Star": {
+        "sx": 700,
+        "sy": 0,
+        "tilew": 70,
+        "tileh": 70
+    }
+}

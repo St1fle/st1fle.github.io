@@ -1,0 +1,18 @@
+{
+    "Fly": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 70,
+        "tileh": 39,
+        "frames": 6
+    },
+    "Slime": {
+        "sx": 60,
+        "sy": 0,
+        "cols": 6,
+        "tilew": 50,
+        "tileh": 28,
+        "frames": 6
+    }
+}

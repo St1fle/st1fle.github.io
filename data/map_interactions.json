@@ -1,0 +1,10 @@
+{
+    "mov_plat": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 1,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "lava": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 2,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 2
+    },
+    "spike": {
+        "sx": 70,
+        "sy": 0,
+        "cols": 2,
+        "tilew": 70,
+        "tileh": 70,
+        "frames": 2
+    }
+}
